@@ -1,0 +1,5 @@
+brand,color,price,model,capacity,isProgrammable
+Whirlpool,Stainless Steel,200,KIT-300,5L,true
+Samsung,Black,180,KIT-500,10L,false
+LG,White,220,KIT-700,8L,false
+KitchenAid,Red,250,KIT-900,6L,true

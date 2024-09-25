@@ -1,0 +1,5 @@
+brand,color,price,model,isCordless
+Samsung,White,100,XYZ-100,true
+Philips,Blue,80,PQR-200,false
+Dyson,Red,200,DEF-300,true
+LG,Green,120,GHI-400,false
